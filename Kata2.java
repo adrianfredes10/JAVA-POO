@@ -1,4 +1,4 @@
-// Kata 2: Registro de Mascotas
+// Kata 2: registro de mascotas
 class Mascota {
     private String nombre;
     private String especie;
