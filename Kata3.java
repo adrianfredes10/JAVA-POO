@@ -1,4 +1,4 @@
-// Kata 3: Primeros Pasos en Encapsulamiento
+// Kata 3: encapsulamiento
 class Libro {
     private String titulo;
     private String autor;
