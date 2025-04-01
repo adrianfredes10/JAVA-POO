@@ -1,4 +1,4 @@
-// Kata 5: Comportamiento de los Objetos
+// Kata 5: comportamiento de los objetos
 class NaveEspacial {
     private String nombre;
     private int combustible;
