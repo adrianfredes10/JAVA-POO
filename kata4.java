@@ -1,4 +1,4 @@
-// Kata 4: Estado e Identidad de los Objetos
+// Kata 4: eestado e identidad de los objetos
 class Gallina {
     private int idGallina;
     private int edad;
