@@ -1,4 +1,4 @@
-// Kata 1: Registro de Estudiantes
+// Kata 1: registro de estudiantes
 class Estudiante {
     private String nombre;
     private String apellido;
